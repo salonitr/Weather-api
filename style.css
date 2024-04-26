@@ -1,0 +1,17 @@
+.box{
+    width: 40%;
+    border: 2px solid black;
+    
+    border-radius: 4%;
+    
+}
+.m{
+    margin-top: 20%;
+
+}
+#cardd{
+    display: none;
+    align-content: center;
+    margin-top: 10%;
+    margin-left: 40%;
+}
